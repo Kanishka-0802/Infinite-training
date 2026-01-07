@@ -8,9 +8,9 @@ namespace ElectricBill.Models
     public class BillValidator
     {
 
-        public string ValidateUnitsConsumed(int unitsConsumed)
+        public string ValidateUnitsConsumed(int units_Consumed)
         {
-            if (unitsConsumed < 0)
+            if (units_Consumed < 0)
                 return "Given units is invalid";
             return "Valid";
         }

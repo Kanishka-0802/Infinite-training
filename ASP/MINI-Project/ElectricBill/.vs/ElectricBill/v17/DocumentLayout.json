@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\lastbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -17,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\billing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\billing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|solutionrelative:electricbill\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{650BF13C-2560-4AC2-BEA0-1F7A075B5045}|ElectricBill\\ElectricBill.csproj|c:\\users\\kanishkac\\desktop\\asp\\mini-project\\electricbill\\electricbill\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,20 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LastBill.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\LastBill.aspx.cs",
               "RelativeDocumentMoniker": "ElectricBill\\LastBill.aspx.cs",
               "ToolTip": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\LastBill.aspx.cs",
               "RelativeToolTip": "ElectricBill\\LastBill.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T16:03:03.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LastBill.aspx",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\LastBill.aspx",
               "RelativeDocumentMoniker": "ElectricBill\\LastBill.aspx",
@@ -105,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Billing.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\Billing.aspx.cs",
               "RelativeDocumentMoniker": "ElectricBill\\Billing.aspx.cs",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Billing.aspx",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\Billing.aspx",
               "RelativeDocumentMoniker": "ElectricBill\\Billing.aspx",
@@ -131,20 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\Login.aspx.cs",
               "RelativeDocumentMoniker": "ElectricBill\\Login.aspx.cs",
               "ToolTip": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\Login.aspx.cs",
               "RelativeToolTip": "ElectricBill\\Login.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T15:58:40.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\Login.aspx",
               "RelativeDocumentMoniker": "ElectricBill\\Login.aspx",
@@ -183,13 +183,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BillValidator.cs",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\Models\\BillValidator.cs",
               "RelativeDocumentMoniker": "ElectricBill\\Models\\BillValidator.cs",
               "ToolTip": "C:\\Users\\kanishkac\\Desktop\\ASP\\MINI-Project\\ElectricBill\\ElectricBill\\Models\\BillValidator.cs",
               "RelativeToolTip": "ElectricBill\\Models\\BillValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T15:52:38.903Z",
               "EditorCaption": ""

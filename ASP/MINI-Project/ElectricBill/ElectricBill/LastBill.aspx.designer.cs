@@ -51,21 +51,21 @@ namespace ElectricBill
         protected global::System.Web.UI.WebControls.Label lblMsg;
 
         /// <summary>
-        /// gvBills control.
+        /// gv_Bills control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvBills;
+        protected global::System.Web.UI.WebControls.GridView gv_Bills;
 
         /// <summary>
-        /// repSummary control.
+        /// rep_Summary control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater repSummary;
+        protected global::System.Web.UI.WebControls.Repeater rep_Summary;
     }
 }

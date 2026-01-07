@@ -40,11 +40,11 @@ namespace ElectricBill
             var board = new ElectricBoard();
             var bills = board.Generate_N_BillDetails(n);
 
-            gvBills.DataSource = bills;
-            gvBills.DataBind();
+            gv_Bills.DataSource = bills;
+            gv_Bills.DataBind();
 
-            repSummary.DataSource = bills;
-            repSummary.DataBind();
+            rep_Summary.DataSource = bills;
+            rep_Summary.DataBind();
         }
     }
 }
