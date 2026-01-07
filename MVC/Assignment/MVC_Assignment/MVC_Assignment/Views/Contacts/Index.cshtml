@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MVC_Assignment.Models.Contact>
+
+@{
+    Layout = null;   
+    ViewBag.Title = "Contacts List";
+}
+
+<h2>Contacts</h2>
+
+<p>
+    @Html.ActionLink("Create New Contact", "Create", "Contacts", null, new { @class = "btn btn-primary" })
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.First().FirstName)</th>
+            <th>@Html.DisplayNameFor(m => m.First().LastName)</th>
+            <th>@Html.DisplayNameFor(m => m.First().Email)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.FirstName</td>
+                <td>@contact.LastName</td>
+                <td>@contact.Email</td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", new { id = contact.Id }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

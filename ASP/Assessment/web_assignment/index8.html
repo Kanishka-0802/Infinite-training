@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Task8</title>
+  <script src="jquery.js"></script>
+</head>
+<body>
+    <!-- 8. Append a <p> element with a text message when an <input> field is changed. -->
+  <h2>Task 8: Append a message when input Field Changes</h2>
+  <input type="text" id="input" placeholder="Write Something here...">
+  
+  <script>
+    $(document).ready(function() {
+      $("#input").change(function() {
+        $("body").append("<p>You changed the input field.</p>");
+      });
+    });
+  </script>
+</body>
+</html>

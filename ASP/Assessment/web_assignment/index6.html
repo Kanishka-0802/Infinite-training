@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Task6</title>
+  <script src="jquery.js"></script>
+</head>
+<body>
+    <!-- 6. Write a jQuery Code to get a single element from a selection. -->
+    <h1> Task 6: List Items</h1>
+  <ul>
+    <li>CSHARP</li>
+    <li>SQL</li>
+    <li>ADO</li>
+  </ul>
+
+  
+  <p id="output">Click on a list item to display it here</p>
+
+  <script>
+    $(document).ready(function() {
+      $("li").click(function() {
+        const text = $(this).text();
+        $("#output").text("You clicked: " + text);
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Task5</title>
+</head>
+<body>
+
+    <h3> Task 5 : Applying Background for div Element</h3>
+  <div>
+    <h1>Hello Everyone!!!!!</h1>
+  </div>
+
+  <h1>Welcome to Learn Web Technology!</h1>
+
+  <script>
+    // 5. Find all h1 elements that are children of a div element and apply a background to them. 
+
+var divsection = document.getElementsByTagName("div");
+for(var div of divsection) {
+  var col = div.getElementsByTagName("h1");
+  for(var h1 of col) {
+    h1.style.backgroundColor = "lightblue";
+  }
+}
+
+  </script>
+</body>
+</html>

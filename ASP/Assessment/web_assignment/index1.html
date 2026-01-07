@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+ 
+    <title>Task1</title>
+    <style>
+       
+        input {
+            margin: 5px;
+            padding: 8px;
+        }
+        button {
+            margin: 5px;
+            padding: 8px 12px;
+            background-color: green;
+            color: white;
+            border-radius: 20px;
+
+        }
+        #result {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+
+    <!-- 1. Write a JavaScript program to calculate multiplication and division of two numbers (input from user). -->
+    <h2> Task 1 : Multiplication and Division Calculator</h2>
+    
+    <label for="num1">First Number:</label>
+    <input type="number" id="num1" placeholder="Enter first number"><br>
+    
+    <label for="num2">Second Number:</label>
+    <input type="number" id="num2" placeholder="Enter second number"><br>
+    
+    <button onclick="multiply()">Multiply</button>
+    <button onclick="divide()">Divide</button>
+    
+    <div id="result"></div>
+    
+    <script>
+        function multiply() {
+            var num1 = document.getElementById("num1").value;
+            var num2 = document.getElementById("num2").value;
+            var result = num1 * num2;
+            document.getElementById("result").innerText = "Multiplication Result: " + result;
+        }
+
+        function divide() {
+            var num1 =document.getElementById("num1").value;
+            var num2 =document.getElementById("num2").value;
+            if (num2 == 0) {
+                document.getElementById("result").innerText = "Error: Division by zero is Allowed";
+            } else {
+            var result = num1 / num2;
+                document.getElementById("result").innerText = "Division Result: " + result;
+            }
+        }
+    </script>
+</body>
+</html>
