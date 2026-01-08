@@ -38,7 +38,7 @@ namespace ElectricBill
         private void LoadBills(int n)
         {
             var board = new ElectricBoard();
-            var bills = board.Generate_N_BillDetails(n);
+            var bills = board.Generate_N_Bill(n);
 
             gv_Bills.DataSource = bills;
             gv_Bills.DataBind();

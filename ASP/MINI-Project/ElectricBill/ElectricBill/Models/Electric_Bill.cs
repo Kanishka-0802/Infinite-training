@@ -8,14 +8,14 @@ namespace ElectricBill.Models
     public class Electric_Bill
     {
    
-        private string consumerNumber;
-        private string consumerName;
-        private int unitsConsumed;
-        private double billAmount;
+        private string consumer_num;
+        private string consumer_name;
+        private int units_consumed;
+        private double bill_amount;
 
-        public string ConsumerNumber
+        public string Consumer_num
         {
-            get => consumerNumber;
+            get => consumer_num;
             set
             {
                 
@@ -26,26 +26,26 @@ namespace ElectricBill.Models
                 if (!int.TryParse(digits, out _))
                     throw new FormatException("Invalid Consumer Number");
 
-                consumerNumber = value;
+                consumer_num = value;
             }
         }
 
-        public string ConsumerName
+        public string Consumer_name
         {
-            get => consumerName;
-            set => consumerName = value;
+            get => consumer_name;
+            set => consumer_name = value;
         }
 
-        public int UnitsConsumed
+        public int Units_consumed
         {
-            get => unitsConsumed;
-            set => unitsConsumed = value;
+            get => units_consumed;
+            set => units_consumed = value;
         }
 
-        public double BillAmount
+        public double Bill_amount
         {
-            get => billAmount;
-            set => billAmount = value;
+            get => bill_amount;
+            set => bill_amount = value;
         }
     }
 }

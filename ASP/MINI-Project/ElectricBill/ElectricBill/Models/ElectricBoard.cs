@@ -11,7 +11,7 @@ namespace ElectricBill.Models
     
         public void CalculateBill(Electric_Bill ebill)
         {
-            int units = ebill.UnitsConsumed;
+            int units = ebill.Units_consumed;
             double amount = 0;
 
             if (units <= 100)
@@ -35,57 +35,54 @@ namespace ElectricBill.Models
                 amount = (200 * 1.5) + (300 * 3.5) + (400 * 5.5) + (units - 1000) * 7.5;
             }
 
-            ebill.BillAmount = amount;
+            ebill.Bill_amount = amount;
         }
 
         public void AddBill(Electric_Bill ebill)
         {
             DataBaseHandler db = new DataBaseHandler();
-            using (SqlConnection con = db.GetConnection())
-            {
+            SqlConnection con = db.GetConnection();
                 con.Open();
                 string query = @"insert into ElectricityBill
                                  (consumer_number, consumer_name, units_consumed, bill_amount)
-                                 VALUES (@num, @name, @units, @amount)";
+                                 values (@num, @name, @units, @amount)";
                 using (SqlCommand cmd = new SqlCommand(query, con))
                 {
-                    cmd.Parameters.AddWithValue("@num", ebill.ConsumerNumber);
-                    cmd.Parameters.AddWithValue("@name", ebill.ConsumerName);
-                    cmd.Parameters.AddWithValue("@units", ebill.UnitsConsumed);
-                    cmd.Parameters.AddWithValue("@amount", ebill.BillAmount);
+                    cmd.Parameters.AddWithValue("@num", ebill.Consumer_num);
+                    cmd.Parameters.AddWithValue("@name", ebill.Consumer_name);
+                    cmd.Parameters.AddWithValue("@units", ebill.Units_consumed);
+                    cmd.Parameters.AddWithValue("@amount", ebill.Bill_amount);
                     cmd.ExecuteNonQuery();
-                }
+               
             }
         }
 
-        public List<Electric_Bill> Generate_N_BillDetails(int num)
+        public List<Electric_Bill> Generate_N_Bill(int num)
         {
             List<Electric_Bill> bills = new List<Electric_Bill>();
             DataBaseHandler db = new DataBaseHandler();
-            using (SqlConnection con = db.GetConnection())
-            {
-                con.Open();
-                string query = $"SELECT TOP (@n) consumer_number, consumer_name, units_consumed, bill_amount " +
-                               "FROM ElectricityBill ORDER BY consumer_number DESC";
-                using (SqlCommand cmd = new SqlCommand(query, con))
-                {
+            SqlConnection con = db.GetConnection();
+               con.Open();
+                string query = $"select top (@n) consumer_number, consumer_name, units_consumed, bill_amount " +
+                               "from ElectricityBill order by consumer_number desc";
+            SqlCommand cmd = new SqlCommand(query, con);
+                
                     cmd.Parameters.AddWithValue("@n", num);
-                    using (SqlDataReader reader = cmd.ExecuteReader())
-                    {
+                SqlDataReader reader = cmd.ExecuteReader();
+                    
                         while (reader.Read())
                         {
                             var eb = new Electric_Bill
                             {
-                                ConsumerNumber = reader["consumer_number"].ToString(),
-                                ConsumerName = reader["consumer_name"].ToString(),
-                                UnitsConsumed = Convert.ToInt32(reader["units_consumed"]),
-                                BillAmount = Convert.ToDouble(reader["bill_amount"])
+                                Consumer_num = reader["consumer_number"].ToString(),
+                                Consumer_name = reader["consumer_name"].ToString(),
+                                Units_consumed = Convert.ToInt32(reader["units_consumed"]),
+                                Bill_amount = Convert.ToDouble(reader["bill_amount"])
                             };
                             bills.Add(eb);
                         }
-                    }
-                }
-            }
+                   
+            
             return bills;
         }
     }

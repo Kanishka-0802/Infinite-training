@@ -23,8 +23,8 @@ namespace ElectricBill
             try
             {
                 var eb = new Electric_Bill();
-                eb.ConsumerNumber = txtConsumerNumber.Text.Trim();
-                eb.ConsumerName = txtConsumerName.Text.Trim();
+                eb.Consumer_num = txtConsumerNumber.Text.Trim();
+                eb.Consumer_name = txtConsumerName.Text.Trim();
 
                 if (!int.TryParse(txtUnits.Text, out int units))
                 {
@@ -40,7 +40,7 @@ namespace ElectricBill
                     return;
                 }
 
-                eb.UnitsConsumed = units;
+                eb.Units_consumed = units;
 
                 var board = new ElectricBoard();
                 board.CalculateBill(eb);

@@ -66,10 +66,10 @@
           
             <asp:GridView ID="gv_Bills" runat="server" AutoGenerateColumns="false">
                 <Columns>
-                    <asp:BoundField DataField="ConsumerNumber" HeaderText="Consumer Number" />
-                    <asp:BoundField DataField="ConsumerName" HeaderText="Consumer Name" />
-                    <asp:BoundField DataField="UnitsConsumed" HeaderText="Units Consumed" />
-                    <asp:BoundField DataField="BillAmount" HeaderText="Bill Amount" DataFormatString="{0:F2}" />
+                    <asp:BoundField DataField="Consumer_num" HeaderText="Consumer Number" />
+                    <asp:BoundField DataField="Consumer_name" HeaderText="Consumer Name" />
+                    <asp:BoundField DataField="Units_consumed" HeaderText="Units Consumed" />
+                    <asp:BoundField DataField="Bill_amount" HeaderText="Bill Amount" DataFormatString="{0:F2}" />
                 </Columns>
             </asp:GridView>
 
@@ -77,7 +77,7 @@
             
             <asp:Repeater ID="rep_Summary" runat="server">
                 <ItemTemplate>
-                    EB Bill for <%# Eval("ConsumerName") %> is <%# Eval("BillAmount", "{0:F2}") %><br />
+                    EB Bill for <%# Eval("Consumer_name") %> is <%# Eval("Bill_amount", "{0:F2}") %><br />
                 </ItemTemplate>
             </asp:Repeater>
         </div>
