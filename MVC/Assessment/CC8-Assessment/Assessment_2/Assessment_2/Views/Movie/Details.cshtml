@@ -1,0 +1,27 @@
+﻿@model Assessment_2.Models.Movie
+
+@{
+    ViewBag.Title = "Movie Details";
+}
+
+<h2>Movie Details</h2>
+
+<div>
+    <h4>@Model.movie_name</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Movie ID</dt>
+        <dd>@Model.mid</dd>
+
+        <dt>Director</dt>
+        <dd>@Model.director_name</dd>
+
+        <dt>Date of Release</dt>
+        <dd>@Model.dateof_Release.ToShortDateString()</dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.mid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

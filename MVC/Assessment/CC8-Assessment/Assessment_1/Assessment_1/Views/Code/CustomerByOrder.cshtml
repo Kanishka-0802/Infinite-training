@@ -1,0 +1,68 @@
+﻿@model Assessment_1.Models.Customer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Customer Details</title>
+    <style>
+        body {
+            
+            margin: 30px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+        }
+
+        .customer-details {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 20px;
+            max-width: 400px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+            .customer-details p {
+                margin: 8px 0;
+                font-size: 14px;
+            }
+
+            .customer-details strong {
+                color: #3498db;
+            }
+
+        .no-data {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>Customer Details for Order 10248</h2>
+
+    @if (Model != null)
+    {
+        <div class="customer-details">
+            <p><strong>Customer ID:</strong> @Model.CustomerID</p>
+            <p><strong>Company Name:</strong> @Model.CompanyName</p>
+            <p><strong>Contact Name:</strong> @Model.ContactName</p>
+            <p><strong>Country:</strong> @Model.Country</p>
+        </div>
+    }
+    else
+    {
+        <p class="no-data">No customer found for this order.</p>
+    }
+</body>
+</html>
