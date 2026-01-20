@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanishkac\\Desktop\\Assignments\\HumanResources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B3528C-31BC-4481-B1C2-7FCEFDD9455C}|Features\\Features.csproj|c:\\users\\kanishkac\\desktop\\assignments\\humanresources\\features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B3528C-31BC-4481-B1C2-7FCEFDD9455C}|Features\\Features.csproj|solutionrelative:features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8D9279-FFFE-4E6E-AF67-5A68427195DC}|HumanResources\\HumanResources.csproj|c:\\users\\kanishkac\\desktop\\assignments\\humanresources\\humanresources\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8D9279-FFFE-4E6E-AF67-5A68427195DC}|HumanResources\\HumanResources.csproj|solutionrelative:humanresources\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Assignments\\HumanResources\\Features\\Program.cs",
+              "RelativeDocumentMoniker": "Features\\Program.cs",
+              "ToolTip": "C:\\Users\\kanishkac\\Desktop\\Assignments\\HumanResources\\Features\\Program.cs*",
+              "RelativeToolTip": "Features\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:43:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Assignments\\HumanResources\\HumanResources\\Program.cs",
+              "RelativeDocumentMoniker": "HumanResources\\Program.cs",
+              "ToolTip": "C:\\Users\\kanishkac\\Desktop\\Assignments\\HumanResources\\HumanResources\\Program.cs",
+              "RelativeToolTip": "HumanResources\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:15:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

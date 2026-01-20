@@ -1,0 +1,7 @@
+C:\Users\kanishkac\Desktop\Assignments\HumanResources\NeewFeatures\NeewFeatures\bin\Debug\NeewFeatures.exe.config
+C:\Users\kanishkac\Desktop\Assignments\HumanResources\NeewFeatures\NeewFeatures\bin\Debug\NeewFeatures.exe
+C:\Users\kanishkac\Desktop\Assignments\HumanResources\NeewFeatures\NeewFeatures\bin\Debug\NeewFeatures.pdb
+C:\Users\kanishkac\Desktop\Assignments\HumanResources\NeewFeatures\NeewFeatures\obj\Debug\NeewFeatures.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\HumanResources\NeewFeatures\NeewFeatures\obj\Debug\NeewFeatures.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\HumanResources\NeewFeatures\NeewFeatures\obj\Debug\NeewFeatures.exe
+C:\Users\kanishkac\Desktop\Assignments\HumanResources\NeewFeatures\NeewFeatures\obj\Debug\NeewFeatures.pdb

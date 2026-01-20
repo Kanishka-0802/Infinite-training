@@ -6,10 +6,7 @@ using System.Data.Entity;
 
 namespace Assessment_2.Models
 {
-   
-
-   
-        public class MoviesDbContext : DbContext
+    public class MoviesDbContext : DbContext
         {
             public MoviesDbContext() : base("MoviesDB") { }
 

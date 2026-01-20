@@ -19,9 +19,11 @@
     </dl>
 </div>
 
-@using (Html.BeginForm("DeleteConfirmed", "Movies", new { id = Model.mid }, FormMethod.Post))
+@using (Html.BeginForm("Delete", "Movie", new { id = Model.mid }, FormMethod.Post))
 {
     @Html.AntiForgeryToken()
     <input type="submit" value="Delete" class="btn btn-danger" />
     @Html.ActionLink("Cancel", "Index")
 }
+
+

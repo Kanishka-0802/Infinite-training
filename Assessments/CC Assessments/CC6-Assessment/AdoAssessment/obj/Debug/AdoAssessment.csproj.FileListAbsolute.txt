@@ -1,0 +1,8 @@
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\bin\Debug\AdoAssessment.exe.config
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\bin\Debug\AdoAssessment.exe
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\bin\Debug\AdoAssessment.pdb
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\obj\Debug\AdoAssessment.csproj.AssemblyReference.cache
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\obj\Debug\AdoAssessment.csproj.CoreCompileInputs.cache
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\obj\Debug\AdoAssessment.exe
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\obj\Debug\AdoAssessment.pdb
+C:\Users\kanishkac\Desktop\Assignments\AdoAssessment\AdoAssessment\obj\Debug\AdoAssessment.exe.config

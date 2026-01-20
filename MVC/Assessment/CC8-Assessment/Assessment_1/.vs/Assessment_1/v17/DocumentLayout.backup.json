@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_2\\Assessment_2\\Global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|c:\\users\\kanishkac\\desktop\\infinite\\mvc\\assessment\\cc8-assessment\\assessment_1\\assessment_1\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\assessment_1\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|c:\\users\\kanishkac\\desktop\\infinite\\mvc\\assessment\\cc8-assessment\\assessment_1\\assessment_1\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\assessment_1\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|c:\\users\\kanishkac\\desktop\\infinite\\mvc\\assessment\\cc8-assessment\\assessment_1\\assessment_1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|c:\\users\\kanishkac\\desktop\\infinite\\mvc\\assessment\\cc8-assessment\\assessment_1\\assessment_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|c:\\users\\kanishkac\\desktop\\infinite\\mvc\\assessment\\cc8-assessment\\assessment_1\\assessment_1\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\assessment_1\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|c:\\users\\kanishkac\\desktop\\infinite\\mvc\\assessment\\cc8-assessment\\assessment_1\\assessment_1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\assessment_1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\assessment_1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064FA1EA-6804-43F0-8EE4-38C17FD8B61C}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_2\\Assessment_2\\Global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,7 +45,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Web.config",
+              "RelativeDocumentMoniker": "Assessment_1\\Web.config",
+              "ToolTip": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Web.config",
+              "RelativeToolTip": "Assessment_1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T06:44:46.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Global.asax",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_2\\Assessment_2\\Global.asax",
               "RelativeDocumentMoniker": "..\\Assessment_2\\Assessment_2\\Global.asax",
@@ -49,16 +66,11 @@
               "RelativeToolTip": "..\\Assessment_2\\Assessment_2\\Global.asax",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
-              "WhenOpened": "2026-01-13T06:01:54.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2026-01-13T06:01:54.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Global.asax.cs",
               "RelativeDocumentMoniker": "Assessment_1\\Global.asax.cs",
@@ -66,59 +78,60 @@
               "RelativeToolTip": "Assessment_1\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:03:37.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:03:37.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CustomerByOrder.cshtml",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Views\\Code\\CustomerByOrder.cshtml",
               "RelativeDocumentMoniker": "Assessment_1\\Views\\Code\\CustomerByOrder.cshtml",
               "ToolTip": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Views\\Code\\CustomerByOrder.cshtml",
               "RelativeToolTip": "Assessment_1\\Views\\Code\\CustomerByOrder.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T05:00:07.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomersInGermany.cshtml",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Views\\Code\\CustomersInGermany.cshtml",
               "RelativeDocumentMoniker": "Assessment_1\\Views\\Code\\CustomersInGermany.cshtml",
               "ToolTip": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Views\\Code\\CustomersInGermany.cshtml",
               "RelativeToolTip": "Assessment_1\\Views\\Code\\CustomersInGermany.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T04:57:53.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "Assessment_1\\Models\\Model1.edmx",
               "ToolTip": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "Assessment_1\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-01-13T04:52:54.895Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-01-13T04:52:54.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CodeController.cs",
               "DocumentMoniker": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Controllers\\CodeController.cs",
               "RelativeDocumentMoniker": "Assessment_1\\Controllers\\CodeController.cs",
               "ToolTip": "C:\\Users\\kanishkac\\Desktop\\Infinite\\MVC\\Assessment\\CC8-Assessment\\Assessment_1\\Assessment_1\\Controllers\\CodeController.cs",
               "RelativeToolTip": "Assessment_1\\Controllers\\CodeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T04:46:59.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T04:46:59.41Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
